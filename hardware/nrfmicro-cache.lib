@@ -190,11 +190,11 @@ X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# nrfmicro-rescue_AP2112K-3.3-Regulator_Linear
+# nrfmicro-rescue_AP2112K-3.3-Regulator_Linear-nrfmicro-rescue
 #
-DEF nrfmicro-rescue_AP2112K-3.3-Regulator_Linear U 0 10 Y Y 1 F N
+DEF nrfmicro-rescue_AP2112K-3.3-Regulator_Linear-nrfmicro-rescue U 0 10 Y Y 1 F N
 F0 "U" -200 225 50 H V L CNN
-F1 "nrfmicro-rescue_AP2112K-3.3-Regulator_Linear" 0 225 50 H V L CNN
+F1 "nrfmicro-rescue_AP2112K-3.3-Regulator_Linear-nrfmicro-rescue" 0 225 50 H V L CNN
 F2 "Package_TO_SOT_SMD:SOT-23-5" 0 325 50 H I C CNN
 F3 "" 0 100 50 H I C CNN
 $FPLIST
@@ -210,11 +210,11 @@ X VOUT 5 300 100 100 L 50 50 1 1 w
 ENDDRAW
 ENDDEF
 #
-# nrfmicro-rescue_USB_C_Receptacle_USB2.0-Connector
+# nrfmicro-rescue_USB_C_Receptacle_USB2.0-Connector-nrfmicro-rescue
 #
-DEF nrfmicro-rescue_USB_C_Receptacle_USB2.0-Connector J 0 40 Y Y 1 F N
+DEF nrfmicro-rescue_USB_C_Receptacle_USB2.0-Connector-nrfmicro-rescue J 0 40 Y Y 1 F N
 F0 "J" -400 750 50 H V L CNN
-F1 "nrfmicro-rescue_USB_C_Receptacle_USB2.0-Connector" 750 750 50 H V R CNN
+F1 "nrfmicro-rescue_USB_C_Receptacle_USB2.0-Connector-nrfmicro-rescue" 750 750 50 H V R CNN
 F2 "" 150 0 50 H I C CNN
 F3 "" 150 0 50 H I C CNN
 $FPLIST

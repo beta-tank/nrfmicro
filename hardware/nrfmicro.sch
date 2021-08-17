@@ -234,7 +234,7 @@ CC2
 Text GLabel 10600 950  2    60   Input ~ 0
 VBUS
 $Comp
-L nrfmicro-rescue:USB_C_Receptacle_USB2.0-Connector J1
+L nrfmicro-rescue:USB_C_Receptacle_USB2.0-Connector-nrfmicro-rescue J1
 U 1 1 5C743564
 P 10000 1550
 F 0 "J1" H 10000 2375 50  0000 C CNN
@@ -284,7 +284,7 @@ Power and Filtering
 Wire Wire Line
 	2650 6300 2700 6300
 $Comp
-L nrfmicro-rescue:AP2112K-3.3-Regulator_Linear U2
+L nrfmicro-rescue:AP2112K-3.3-Regulator_Linear-nrfmicro-rescue U2
 U 1 1 5EBF7400
 P 2350 6400
 F 0 "U2" H 2350 6742 50  0000 C CNN
@@ -549,7 +549,7 @@ Connection ~ 1725 6300
 Wire Wire Line
 	1725 6300 1950 6300
 Text Label 6350 2000 0    60   ~ 0
-P1.11
+P1.04
 Text Label 6350 1300 0    60   ~ 0
 P0.30
 Text Label 6350 1400 0    60   ~ 0
@@ -892,7 +892,7 @@ CC2
 Text GLabel 10600 3125 2    60   Input ~ 0
 VBUS
 $Comp
-L nrfmicro-rescue:USB_C_Receptacle_USB2.0-Connector J5
+L nrfmicro-rescue:USB_C_Receptacle_USB2.0-Connector-nrfmicro-rescue J5
 U 1 1 607FEA62
 P 10000 3725
 F 0 "J5" H 10000 4550 50  0000 C CNN
